@@ -13,8 +13,6 @@ He trabajado en varios proyectos interesantes que demuestran mis habilidades y m
 
 - **Backend:** Tengo experiencia en el desarrollo de aplicaciones backend utilizando Java. Trabajar en el lado del servidor me permite construir sistemas robustos y escalables.
 
-- **Bases de Datos:** Soy competente en SQL y puedo diseñar y gestionar bases de datos eficientes para aplicaciones web.
-
 ### Filosofía
 
 Creo en la importancia de la constante mejora y la resolución creativa de problemas. Siempre estoy buscando nuevas oportunidades para aprender y enfrentar desafíos que me ayuden a crecer como desarrolladora.
