@@ -1,6 +1,6 @@
 ![Texto alternativo](git.png)
 
-### Sobre Mí:
+
 ¡Hola! Soy Patricia Chávez, una apasionada desarrolladora web con experiencia tanto en el lado del frontend como en el backend. Durante los últimos dos años, me he dedicado a aprender y crecer como desarrolladora de forma autodidacta.
 
 ### Mis Proyectos
