@@ -9,7 +9,7 @@ He trabajado en varios proyectos interesantes que demuestran mis habilidades y m
 
 ### Mis Habilidades
 
-- **Frontend:** HTML, CSS y JavaScript son mis herramientas clave para crear experiencias de usuario atractivas y amigables.
+- **Frontend:** JavaScript, React, HTML, CSS, Figma, Trello son mis herramientas clave para crear experiencias de usuario atractivas y amigables.
 
 - **Backend:** Tengo experiencia en el desarrollo de aplicaciones backend utilizando Java. Trabajar en el lado del servidor me permite construir sistemas robustos y escalables.
 
